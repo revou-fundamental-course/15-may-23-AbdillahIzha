@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;  
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    margin: 0;
+    background-color: #ff5e00;
+    text-align: center;
+    padding: 20px 50px;
+    
+}
+
+.navbar{
+    color:#F5F5F5;  
+}
+
+
+.sisi-keliling {
+    align-content: center;
+}
+
+
+.hitung-luas{
+    color: #ff5e00;
+    font-weight: bold;
+    text-align: center;
+    
+}
+.hitung-keliling {
+    color: #ff5e00;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.input {
+    border-radius: 2px;
+}
+
+.button1 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #ff5e00;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 4px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor:pointer;
+    margin: 5px;
+}
+
+
+.button2 {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #F5F5F5;
+    border: solid 2px;
+    border-color: #ff5e00;
+    text-align: center;
+    padding: 2px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor:pointer;
+    margin: 5px;
+}
+
+.main-container {
+    float: left;
+    background-color: #f1ecec;
+    padding: 20px;
+    margin: 40px 1%;
+    width: 45%;
+    height: 650px;
+    border-radius: 10px;
+    overflow-y: scroll;
+    border-style: solid;
+    border-color: #ff5e00;
+    
+}
+
+.main-container-1 {
+    float: left;
+    background-color: #f1ecec;
+    padding: 20px;
+    margin: 40px 1%;
+    width: 45%;
+    height: 650px;
+    border-radius: 10px;
+    overflow-y: scroll;
+    border-style: solid;
+    border-color: #ff5e00;
+}
+
+footer {
+    background-color: #ff5e00;
+    padding: 5px;
+}
+
+h5{
+    color: #f1ecec;
+    text-align: center;
+    
+}
